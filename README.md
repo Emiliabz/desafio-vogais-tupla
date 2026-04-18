@@ -1,36 +1,27 @@
-﻿# Desafio: Vogais em Tupla
+﻿# Desafio: Vogais Tupla
 
-Desafio de lÃ³gica Python que trabalha com identificaÃ§Ã£o e contagem de vogais em estruturas de dados.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio prÃ¡tico que combina manipulaÃ§Ã£o de strings e tuplas para identificar, contar e analisar vogais em dados.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o desafio
-python desafio_vogais_tupla.py
+python desafio-vogais-tupla.py
 `
 
-## ðŸ“‹ Desafio
+## ðŸ“‹ Funcionalidades
 
-Implemente funÃ§Ãµes que:
-- Identificam vogais em uma tupla de caracteres
-- Contam a frequÃªncia de cada vogal
-- Filtram apenas vogais
-- Realizam anÃ¡lises estatÃ­sticas
-
-## ðŸ’¡ Exemplo
-
-`python
-tupla = ('a', 'e', 'i', 'o', 'u', 'b', 'c')
-vogais = filtrar_vogais(tupla)
-frequencia = contar_vogais(tupla)
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
